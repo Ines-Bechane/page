@@ -2,7 +2,7 @@ console.log("Bienvenue sur la page html")
 
 function java(){ 
 
-alert("Bienvenue !")
+alert("Bienvenue!")
 
 alert("Clik !")
 
